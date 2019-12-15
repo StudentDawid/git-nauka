@@ -1,1 +1,3 @@
 # git-nauka
+
+Witajcie studenci!
